@@ -20,4 +20,6 @@
 
 <symbol id="icon-burger" viewBox="0 0 32 32"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.286" d="M4 11.333h24M4 20.667h24"/></symbol>
 
+<symbol id="icon-line" viewBox="0 0 5488 32"><path stroke-width="16" d="M0 16h5488"/></symbol>
+
 </defs></svg>
